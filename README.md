@@ -4,10 +4,6 @@ create by sobhan <br>
 <img src="wave.gif" alt="">
 
 
-<a name="top"></a>
-# Hi there <a href="https://devxan.gq" target="_blank"><img src="https://raw.githubusercontent.com/devxan/devxan/master/wave.gif" height="40rem"></a> <a href="https://devxan.gq" target="_blank">I'm Xan Surnamehere</a>
-### Assorted tech user
-
 [![Profile Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devxan.visitor.badge.reloaded&color=ff5959&style=for-the-badge&logo=github)](https://github.com/devxan)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCF072vYrYal3u8da_t7rBlg?color=ff5959&logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/channel/UCF072vYrYal3u8da_t7rBlg)
 [![GitHub User's Stars](https://img.shields.io/github/stars/devxan?affiliations=OWNER%2CORGANIZATION_MEMBER&color=ff5959&logo=github&logoColor=fff&style=for-the-badge)](https://github.com/devxan?tab=stars)
